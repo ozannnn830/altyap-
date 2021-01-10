@@ -1,0 +1,40 @@
+{
+  "name": "cowboytest12",
+  "version": "0.0.1",
+  "description": "Bu Altyapı Tamamen Narcos Codeye Aittir.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "chalk": "^4.0.0",
+    "moment": "^2.26.0",
+    "jimp": "^0.12.1",
+    "quick.db": "^7.1.1",
+    "snekfetch": "^4.0.4",
+    "weather.js": "^0.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl": "^1.3.5",
+    "moment-duration-format": "^2.3.2",
+    "math-expression-evaluator": "^1.3.1",
+    "common-tags": "^1.8.0",
+    "parse-ms": "^2.1.0",
+    "steam-provider": "^0.2.0",
+    "node-superfetch": "^0.1.10",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
